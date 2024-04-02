@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5630c26d-aa8f-4539-b21d-ee77491c6661" name="Changes" comment="" />
+    <list default="true" id="5630c26d-aa8f-4539-b21d-ee77491c6661" name="Changes" comment="Обновил файл книги (незначительно)">
+      <change beforePath="$PROJECT_DIR$/src/books/book.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/books/book.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2eYLS0U3pi1UGvU3tJodsFSO6cY" />
@@ -46,6 +53,45 @@
       <option name="presentableId" value="Default" />
       <updated>1712076564029</updated>
     </task>
+    <task id="LOCAL-00001" summary="Добавил класс, печатающий объявление о скором открытии магазина">
+      <created>1712077952666</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712077952666</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Обновил файл книги">
+      <created>1712078052874</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712078052875</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Обновил файл книги (незначительно)">
+      <created>1712078079482</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712078079482</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Добавил файл книги" />
+    <MESSAGE value="Обновил файл книги" />
+    <MESSAGE value="Обновил файл книги (незначительно)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Обновил файл книги (незначительно)" />
   </component>
 </project>
