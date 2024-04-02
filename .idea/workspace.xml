@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5630c26d-aa8f-4539-b21d-ee77491c6661" name="Changes" comment="" />
+    <list default="true" id="5630c26d-aa8f-4539-b21d-ee77491c6661" name="Changes" comment="Обновил файл книги (незначительно)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="a7f4bf1154f55febbb3458cfc5499286b1279d38" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="Обновил файл App.java" />
+        <option name="rewordedMessage" value="Обновил файл App.java и добавил еще одну книгу" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="c5b617c9c627ff3778c67a6d99da8d5fbb6281fb" />
   </component>
   <component name="ProjectId" id="2eYLS0U3pi1UGvU3tJodsFSO6cY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,7 +38,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
   <component name="RunManager">
@@ -34,6 +53,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.App" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -46,6 +68,61 @@
       <option name="presentableId" value="Default" />
       <updated>1712076564029</updated>
     </task>
+    <task id="LOCAL-00001" summary="Добавил класс, печатающий объявление о скором открытии магазина">
+      <created>1712077952666</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712077952666</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Обновил файл книги">
+      <created>1712078052874</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712078052875</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Обновил файл книги (незначительно)">
+      <created>1712078079482</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712078079482</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Обновил файл App.java и добавил еще одну книгу">
+      <created>1712079157520</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712079157520</updated>
+    </task>
+    <task id="LOCAL-00005" summary="добавил еще одну книгу">
+      <created>1712079309928</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712079309928</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Добавил файл книги" />
+    <MESSAGE value="Обновил файл книги" />
+    <MESSAGE value="Обновил файл книги (незначительно)" />
+    <MESSAGE value="Обновил файл App.java и добавил еще одну книгу" />
+    <MESSAGE value="добавил еще одну книгу" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавил еще одну книгу" />
   </component>
 </project>
